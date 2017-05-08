@@ -1,7 +1,7 @@
 # kippo-pass-stack
 Easy way to get all users/passwords from all login attempts
 
-#PHP
+# PHP
 https://github.com/SloRunner/kippo-pass-stack/tree/master/php
 
 Requirements
@@ -9,3 +9,6 @@ Requirements
 php5-mysql
 
 php-cli
+
+# NodeJS
+mysql package (install it with npm install inside nodejs folder)
