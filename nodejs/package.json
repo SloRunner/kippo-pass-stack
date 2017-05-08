@@ -1,0 +1,15 @@
+{
+  "name": "kippo-pass-generator",
+  "version": "0.0.1",
+  "description": "Get passwords used to access your honeypot",
+  "main": "grab.js",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ales Kalan (SloRunner)",
+  "license": "ISC"
+}
