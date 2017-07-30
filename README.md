@@ -6,7 +6,7 @@ Easy way to get all users/passwords from all login attempts
 [![GitHub stars](https://img.shields.io/github/stars/SloRunner/kippo-pass-stack.svg?style=plastic)](https://github.com/SloRunner/kippo-pass-stack/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/SloRunner/kippo-pass-stack/master/LICENSE)
 [![paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/SloRunner)
-[![bitcoin](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](bitcoin:1ATsojTcL1xgrEMUDZMNeprZk136VtjumQ)
+[![bitcoin](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/address/1ATsojTcL1xgrEMUDZMNeprZk136VtjumQ)
 
 # PHP
 https://github.com/SloRunner/kippo-pass-stack/tree/master/php 
