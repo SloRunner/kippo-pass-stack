@@ -24,7 +24,7 @@ https://github.com/SloRunner/kippo-pass-stack/tree/master/python
 Requirements: python-mysqldb
 
 
-# Python
+# Perl
 https://github.com/SloRunner/kippo-pass-stack/tree/master/perl 
 
 Requirements: perl
