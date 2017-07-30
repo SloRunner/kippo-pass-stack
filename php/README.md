@@ -1,3 +1,3 @@
 # How to
 
-download it, install php5-mysql and php5-cli then run it via php -f grab.php
+download it, install it with install5.sh or install7.sh scripts then run it via php -f grab.php
